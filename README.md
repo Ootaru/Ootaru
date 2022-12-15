@@ -1,4 +1,4 @@
-- 👋 Trying out the version control platfrom
+- 👋 Trying out the version control platform
 - 👀 I’m interested in Software developent
 - 🌱 
 - 💞️ 
